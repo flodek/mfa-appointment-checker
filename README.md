@@ -1,5 +1,6 @@
 # mfa-appointment-checker
-Simple crawler to check for available slots at online.mfa.gov.ua/application
+Simple crawler to check for available slots at online.mfa.gov.ua/application.
+The script sends slack notification if there are any available slots found
 
 # Execute
 Set slack tocken and chanel id:
