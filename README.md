@@ -13,3 +13,6 @@ Set a cron job to execute the script every few minutes
 ```bash
 python mfa.py
 ```
+
+There was a capcha added to online.mfa.gov.ua so the script does not work anymore.
+The repository has been moved to the archive.
